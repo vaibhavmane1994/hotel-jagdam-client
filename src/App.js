@@ -123,7 +123,7 @@ function App() {
               className="form-control"
               placeholder="Price"
               readOnly
-              value={`₹${form.people * 500 || 500}`} // Example calculation
+              value={`₹${form.people * 1200 || 1200}`} // Example calculation
             />
           </div>
 
