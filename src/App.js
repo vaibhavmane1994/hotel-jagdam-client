@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import './App.css'; // Optional for fade animations
 import './App.css';
+import EventGallery from './Gallery';
 
 function App() {
   const [form, setForm] = useState({ name: '', email: '', date: '', time: '', people: 1 });
@@ -24,7 +25,7 @@ function App() {
           <a href="#booking" className="btn btn-primary mt-3 btn-lg fade-in delay-2">Reserve a Table</a>
         </div>
       </section>
-
+  
       {/* About Section */}
       <section className="container py-5">
         <h2 className="text-center mb-4">Why Choose Us?</h2>
@@ -58,7 +59,7 @@ function App() {
           </div>
         </div>
       </section>
-
+ <EventGallery />
       {/* Booking Section */}
   <section id="booking" className="bg-light py-5">
   <div className="container">
