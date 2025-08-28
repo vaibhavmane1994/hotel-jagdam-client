@@ -1,17 +1,21 @@
 {
   "files": {
     "main.css": "/hotel-jagdam-client/static/css/main.d493091d.css",
-    "main.js": "/hotel-jagdam-client/static/js/main.35a4ae39.js",
+    "main.js": "/hotel-jagdam-client/static/js/main.2be732ae.js",
     "static/js/453.9d9ef663.chunk.js": "/hotel-jagdam-client/static/js/453.9d9ef663.chunk.js",
     "static/media/bootstrap-icons.woff?": "/hotel-jagdam-client/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/hotel-jagdam-client/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/jagdam2.jpg": "/hotel-jagdam-client/static/media/jagdam2.9754069c9c427132fd1a.jpg",
+    "static/media/jagdam3.jpg": "/hotel-jagdam-client/static/media/jagdam3.6642fb13b6878bce0ade.jpg",
+    "static/media/jagdam4.jpg": "/hotel-jagdam-client/static/media/jagdam4.45b0c799bbaef503943b.jpg",
+    "static/media/jagdam1.jpg": "/hotel-jagdam-client/static/media/jagdam1.6941040dcf95a6940169.jpg",
     "index.html": "/hotel-jagdam-client/index.html",
     "main.d493091d.css.map": "/hotel-jagdam-client/static/css/main.d493091d.css.map",
-    "main.35a4ae39.js.map": "/hotel-jagdam-client/static/js/main.35a4ae39.js.map",
+    "main.2be732ae.js.map": "/hotel-jagdam-client/static/js/main.2be732ae.js.map",
     "453.9d9ef663.chunk.js.map": "/hotel-jagdam-client/static/js/453.9d9ef663.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d493091d.css",
-    "static/js/main.35a4ae39.js"
+    "static/js/main.2be732ae.js"
   ]
 }
