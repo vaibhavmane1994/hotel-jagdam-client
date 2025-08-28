@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hotel-jagdam-client/static/css/main.d493091d.css",
-    "main.js": "/hotel-jagdam-client/static/js/main.e9c5069d.js",
+    "main.js": "/hotel-jagdam-client/static/js/main.35a4ae39.js",
     "static/js/453.9d9ef663.chunk.js": "/hotel-jagdam-client/static/js/453.9d9ef663.chunk.js",
     "static/media/bootstrap-icons.woff?": "/hotel-jagdam-client/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/hotel-jagdam-client/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/hotel-jagdam-client/index.html",
     "main.d493091d.css.map": "/hotel-jagdam-client/static/css/main.d493091d.css.map",
-    "main.e9c5069d.js.map": "/hotel-jagdam-client/static/js/main.e9c5069d.js.map",
+    "main.35a4ae39.js.map": "/hotel-jagdam-client/static/js/main.35a4ae39.js.map",
     "453.9d9ef663.chunk.js.map": "/hotel-jagdam-client/static/js/453.9d9ef663.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d493091d.css",
-    "static/js/main.e9c5069d.js"
+    "static/js/main.35a4ae39.js"
   ]
 }
