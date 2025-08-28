@@ -146,7 +146,7 @@ function App() {
                 onChange={e => setForm({ ...form, privacy: e.target.checked })}
               />
               <label className="form-check-label" htmlFor="privacy">
-                I agree to the Privacy Policy by <strong>Vaibhav Prakash Mane (vaibhav.pointing@gmail.com Contact:-8237753751 Address:-Konjar road raigad)</strong>.
+                I agree to the Privacy Policy by <strong>Vaibhav Prakash Mane (vaibhav.pointing@gmail.com Contact:-8237753751 Address:-Konjar road raigad, City:-Raigad,Maharashtra)</strong>.
               </label>
             </div>
           </div>

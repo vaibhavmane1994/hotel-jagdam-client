@@ -9,9 +9,9 @@ export default function Gallery() {
 
   const galleryImages = [
     { src: img1, alt: "Jagdam Hotel - Exterior view" },
-    { src: img4, alt: "Jagdam Hotel - Elegant lobby" },
-    { src: img3, alt: "Jagdam Hotel - Deluxe room" },
-    { src: img2, alt: "Jagdam Hotel - Restaurant area" },
+    { src: img2, alt: "Jagdam Hotel - Elegant lobby" },
+    { src: img4, alt: "Jagdam Hotel - Restaurant area" },
+    { src: img3, alt: "Jagdam Hotel - Restaurant area" },
    
   ];
 
