@@ -217,7 +217,7 @@ function App() {
           </a>
           |
             <a
-  href={`${process.env.PUBLIC_URL}/PrivacyPolicy.html`}
+  href={`${process.env.PUBLIC_URL}/Privacypolicy.html`}
   target="_blank"
   rel="noopener noreferrer"
 >
