@@ -30,15 +30,7 @@ function App() {
       <section className="container py-5">
         <h2 className="text-center mb-4">Why Choose Us?</h2>
         <div className="row text-center g-4">
-          <div className="col-md-4">
-            <div className="card h-100 shadow border-0">
-              <div className="card-body">
-                <i className="bi bi-cup-straw fs-1 text-primary mb-3"></i>
-                <h5 className="card-title">Fine Dining</h5>
-                <p className="card-text">Enjoy curated gourmet dishes in an elegant setting.</p>
-              </div>
-            </div>
-          </div>
+         
           <div className="col-md-4">
             <div className="card h-100 shadow border-0">
               <div className="card-body">
