@@ -199,6 +199,34 @@ function App() {
       {/* Footer */}
       <footer className="bg-dark text-white text-center py-4 mt-5">
         <p className="mb-0">© {new Date().getFullYear()} Hotel Jagdam. All rights reserved.</p>
+         <div className="footer-links mb-3">
+          <a
+  href={`${process.env.PUBLIC_URL}/Termsandcondition.html`}
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Terms & Conditions
+</a>
+          |
+         <a
+  href={`${process.env.PUBLIC_URL}/Refundpolicy.html`}
+  target="_blank"
+  rel="noopener noreferrer"
+>
+            Refund Policy
+          </a>
+          |
+            <a
+  href={`${process.env.PUBLIC_URL}/PrivacyPolicy.html`}
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Privacy Policy
+
+          </a>
+          
+        </div>
+
       </footer>
     </>
   );
